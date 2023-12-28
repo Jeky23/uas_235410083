@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">projek_uas_235410083</string>
+    <string name="order_kue">Kue Putu</string>
+    <string name="one_cupcake">Pesan Satu</string>
+    <string name="ten_cupcakes">Pesan Sepuluh</string>
+    <string name="twnty_cupcakes">Pesan Duapuluh</string>
+    <string name="choose_flavor">Pilih Warna</string>
+    <string name="vanilla">Putih</string>
+    <string name="chocolate">Coklat</string>
+    <string name="red_velvet">Merah</string>
+    <string name="salted_caramel">Hijau</string>
+    <string name="coffee">Kuning</string>
+
+    <string name="special_flavor">Special Flavor</string>
+    <string name="cancel">Batal</string>
+    <string name="next">Lanjut</string>
+
+    <string name="choose_pickup_date">Waktu Pengiriman</string>
+    <string name="order_summary">Detail Pesanan</string>
+    <string name="send">Kirimkan Pesanan </string>
+    <string name="quantity">Jumlah</string>
+    <string name="flavor">Warna</string>
+    <string name="pickup_date">Waktu Pengiriman</string>
+    <string name="subtotal_price">Harga total %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">Pesan Lagi</string>
+    <string name="order_details">Jumlah: %1$s \nWarna: %2$s \nWaktu Pengiriman: %3$s \nTotal: %4$s \n\nTerima Kasih!</string>
+    <string name="back_button">Kembali</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d kue</item>
+        <item quantity="other">%d kue</item>
+    </plurals>
+</resources>
